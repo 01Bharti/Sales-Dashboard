@@ -26,9 +26,5 @@ It uses multiple charts, slicers, and calculated fields so users can explore sal
 - Monitor item-level performance with the average quantity sold  
 - Support decisions on inventory, pricing, and marketing based on data-driven insights  
 
-## 📸 Screenshots
-Add one or more screenshots of the dashboard here, for example:
-- `Sales-Dashboard/Sales dashboard.png`
-- `Sales-Dashboard/Sales-Quarter 1.png`
-- `Sales-Dashboard/Sales_Quarter 2.png`
+
 
