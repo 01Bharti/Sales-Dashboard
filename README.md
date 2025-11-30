@@ -17,7 +17,7 @@ It uses multiple charts, slicers, and calculated fields so users can explore sal
 
 ## 🚀 How to Use
 1. Clone or download this repository.  
-2. Open `Sales.pbix` in **Power BI Desktop**.  
+2. Open `Sales.pbit` in **Power BI Desktop**.  
 3. Refresh the data source if required and apply your own connection.  
 4. Use the slicers, bar charts, and pie charts to explore sales performance.  
 
